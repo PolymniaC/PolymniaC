@@ -64,4 +64,4 @@ Focused on statistics, econometrics, machine learning, data science and quantita
 
 ## 📫 Connect With Me
 
-LinkedIn: linkedin.com/in/polymniachr  
+[Connect with me on LinkedIn](https://linkedin.com/in/polymniachr)

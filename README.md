@@ -36,7 +36,7 @@ Worked within the Global Customer Strategy & Planning team on demand forecasting
 
 - Improved demand prediction accuracy by implementing nonlinear elasticity models.
 - Analysed product interactions to improve cross-elasticity estimation.
-- - Applied **Gradient Boosting and Mutual Information** to identify key forecasting features.
+- Applied **Gradient Boosting and Mutual Information** to identify key forecasting features.
 - Presented analytical insights and strategic recommendations to senior stakeholders.
 
 ---
